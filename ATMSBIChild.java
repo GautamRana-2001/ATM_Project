@@ -99,12 +99,6 @@ class ATMSBIChild implements ATMSBI
 						    System.out.println("New Pin are not matching");
 					}
 				}
-				//else {
-		//			System.out.println("Old pin not matching");
-		//		}
-		//	}
-		//	else{
-		//		System.out.println("Entered wrong pin");
 			}
 		}
 	}
